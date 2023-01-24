@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * is_printable – Evaluate char 
+ * is_printable – Evaluate char
  * @c: Char
  *Return: 1 if c is printable, 0 otherwise
  */
@@ -16,7 +16,7 @@ int is_printable(char c)
 /**
  * append_hexa_code - ascci in hexadecimal code
  * @buffer: Array
- * @i: Index 
+ * @i: Index
  * @ascii_code: ASSCI CODE.
  * Return: Always 3
  */
