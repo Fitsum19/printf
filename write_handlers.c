@@ -176,7 +176,7 @@ return (write(1, &buffer[ind], length));
 * @ind: Index at which the number start
 * @length: Length
 * @width: Wwidth
-* @flags: Flags 
+* @flags: Flags
 * @padd: padding
 * @extra_c: extra char
 * @padd_start: Index
